@@ -1,5 +1,7 @@
 # Vase.ai Dev Extension Pack
 
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/vase.dev-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=vase.dev-extension-pack)
+
 This is a pack of vscode extensions we use at Vase.ai
 
 This pack currently includes:

@@ -2,7 +2,7 @@
     "name": "dev-extension-pack",
     "displayName": "Vase.ai Dev Extension Pack",
     "description": "Extension pack for Vase.ai developers",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "vase",
     "engines": {
         "vscode": "^1.16.0"
