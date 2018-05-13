@@ -1,4 +1,6 @@
 # Change Log
+## 1.2.0 (14/5/2018)
+- Replaced `chenxsan.vscode-standardjs` with `esbenp.prettier-vscode`
 
 ## 1.1.0 (21/9/2017)
 - Added three new extensions:

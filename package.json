@@ -22,7 +22,7 @@
     "extensionDependencies": [ 
         "christian-kohler.npm-intellisense", 
         "christian-kohler.path-intellisense",
-        "chenxsan.vscode-standardjs",
+        "esbenp.prettier-vscode",
         "formulahendry.docker-explorer",
         "PeterJausovec.vscode-docker",
         "eamodio.gitlens",

@@ -7,7 +7,7 @@ This is a pack of vscode extensions we use at Vase.ai
 This pack currently includes:
 - [christian-kohler.npm-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-- [chenxsan.vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
+- [chenxsan.vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [formulahendry.docker-explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
 - [PeterJausovec.vscode-docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 - [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
