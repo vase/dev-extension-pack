@@ -10,7 +10,6 @@ This pack currently includes:
 * [christian-kohler.path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [formulahendry.docker-explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
 * [PeterJausovec.vscode-docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 * [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [octref.vscode-json-transform](https://marketplace.visualstudio.com/items?itemName=octref.vscode-json-transform)

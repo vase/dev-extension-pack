@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.4.0 (29/10/2018)
+
+* Removed `formulahendry.docker-explorer`
+
 ## 1.3.0 (14/5/2018)
 
 * Added `dbaeumer.vscode-eslint`
